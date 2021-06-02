@@ -14,4 +14,6 @@
 
 6.  internet uses : This file consist of % of people using Internet
 
+7. Global Covid-19 data: This file consist of world wide infected, death and recovered cases.
+
 **Note: Major source of data is world bank**
